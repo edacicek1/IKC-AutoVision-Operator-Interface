@@ -7,7 +7,7 @@ Bu proje, otonom mobil robot ve görüntü işleme sistemleri için tasarlanmı�
 ## 📸 Arayüz Görünümü
 
 <p align="center">
-  <img src="TWKNOFEST.png" alt="IKC-AutoVision Operator Interface" width="900" />
+  <img src="TEKNOFEST.png" alt="IKC-AutoVision Operator Interface" width="900" />
 </p>
 
 ---
